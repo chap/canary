@@ -1,0 +1,8 @@
+{
+  "name": "chap-canary",
+  "repo": "https://github.com/chap/canary",
+  "auto_deploy": true,
+  "branch": "main",
+  "kind": "app",
+  "apiVersion": "v1alpha1"
+}
